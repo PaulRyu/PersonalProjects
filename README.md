@@ -19,3 +19,5 @@
 and much more...
 
 ##### Complete Projects: 
+1. Caesar Cipher
+2. Simple HTTP Server
