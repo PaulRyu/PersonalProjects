@@ -7,6 +7,9 @@ import java.net.Socket;
 import java.nio.charset.StandardCharsets;
 import java.util.Date;
 
+// Complete on 25NOV20
+// Basic HTTP Server to test with in a web browser.
+
 public class SimpleHTTPServer {
     public static void main (String[] args) throws Exception {
         final ServerSocket server = new ServerSocket(8080);
